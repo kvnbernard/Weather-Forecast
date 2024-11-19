@@ -1,0 +1,14 @@
+code,dptPathname,regionOverviewPathname
+11,./maps/ileDeFrance.map,./images/regionsMapsOverviews/france-ileDeFrance.svg
+24,./maps/centreValDeLoire.map,./images/regionsMapsOverviews/france-centreValDeLoire.svg
+27,./maps/bourgogneFrancheComte.map,./images/regionsMapsOverviews/france-bourgogneFrancheComte.svg
+28,./maps/normandie.map,./images/regionsMapsOverviews/france-normandie.svg
+32,./maps/hautsDeFrance.map,./images/regionsMapsOverviews/france-hautsDeFrance.svg
+44,./maps/grandEst.map,./images/regionsMapsOverviews/france-grandEst.svg
+52,./maps/paysDeLaLoire.map,./images/regionsMapsOverviews/france-paysDeLaLoire.svg
+53,./maps/bretagne.map,./images/regionsMapsOverviews/france-bretagne.svg
+75,./maps/nouvelleAquitaine.map,./images/regionsMapsOverviews/france-nouvelleAquitaine.svg
+76,./maps/occitanie.map,./images/regionsMapsOverviews/france-occitanie.svg
+84,./maps/auvergne_rhoneAlpes.map,./images/regionsMapsOverviews/france-auvergne_rhoneAlpes.svg
+93,./maps/paca.map,./images/regionsMapsOverviews/france-paca.svg
+94,./maps/corse.map,./images/regionsMapsOverviews/france-corse.svg
