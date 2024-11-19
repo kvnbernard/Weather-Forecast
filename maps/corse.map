@@ -1,0 +1,21 @@
+<div class="center">
+    <img src="./images/dptMaps/corse.svg" alt="Corse" width="258" height="508" usemap="#map" />
+</div>
+
+<map name="map">
+    <!-- #$-:Image map file created by GIMP Image Map plug-in -->
+    <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+    <!-- #$-:Please do not edit lines starting with "#$" -->
+    <!-- #$VERSION:2.3 -->
+    <!-- #$AUTHOR:MyPC -->
+    <area shape="poly"
+          title="Haute-Corse"
+          coords="37,206,90,220,120,247,145,279,154,299,162,299,165,330,165,346,183,351,199,345,199,324,226,275,222,156,206,133,213,91,207,43,187,38,187,111,177,124,153,114,142,109,131,123,135,129,90,139,77,157,66,152,53,168,53,181,53,192"
+          alt="Haute-Corse"
+          href="./weather.php?dpt=2B" />
+    <area shape="poly"
+          title="Corse-du-Sud"
+          coords="30,211,57,236,31,242,36,268,67,292,42,318,42,329,78,329,85,334,58,373,102,392,78,409,77,416,142,457,140,464,162,474,173,443,189,420,178,416,191,403,196,368,199,350,176,354,163,348,158,303,151,302,121,251,86,222"
+          alt="Corse-du-Sud"
+          href="./weather.php?dpt=2A" />
+</map>

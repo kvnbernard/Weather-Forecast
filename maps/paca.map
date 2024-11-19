@@ -1,0 +1,41 @@
+<div class="center">
+    <img src="./images/dptMaps/paca.png" alt="Paca" width="433" height="384" usemap="#map" />
+</div>
+
+<map name="map">
+    <!-- #$-:Image map file created by GIMP Image Map plug-in -->
+    <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+    <!-- #$-:Please do not edit lines starting with "#$" -->
+    <!-- #$VERSION:2.3 -->
+    <!-- #$AUTHOR:MyPC -->
+    <area shape="poly"
+          title="Hautes Alpes"
+          coords="193,167,206,161,219,170,206,150,216,147,238,119,265,113,295,124,326,88,344,82,332,62,306,53,302,31,292,19,280,22,263,26,252,18,247,29,259,34,265,57,228,63,219,68,203,81,196,95,182,109,186,118,182,123,164,118,168,126,160,129,168,141,182,145"
+          alt="Hautes Alpes"
+          href="./weather.php?dpt=5" />
+    <area shape="poly"
+          title="Alpes Maritimes"
+          coords="324,140,308,160,304,176,315,194,328,210,331,214,308,213,299,220,299,232,311,244,321,260,325,270,327,280,350,257,394,234,391,221,406,198,412,183,407,166,381,176,335,159"
+          alt="Alpes Maritimes"
+          href="./weather.php?dpt=6" />
+    <area shape="poly"
+          title="Var"
+          coords="300,235,278,231,265,241,251,230,227,250,204,239,192,258,195,280,203,291,192,297,196,313,188,327,201,341,206,353,222,341,246,348,264,342,296,329,305,315,285,315,306,293,328,281"
+          alt="Var"
+          href="./weather.php?dpt=83" />
+    <area shape="poly"
+          title="Alpes de Haute Provence"
+          coords="205,165,172,175,175,202,178,221,198,237,210,239,224,248,252,223,268,237,291,230,300,232,301,210,324,212,300,173,321,136,330,92,300,126,264,115,240,122,238,124"
+          alt="Alpes de Haute Provence"
+          href="./weather.php?dpt=4" />
+    <area shape="poly"
+          title="Vaucluse"
+          coords="169,180,149,163,131,164,130,151,108,154,95,159,87,145,76,145,82,180,97,189,90,207,112,221,136,240,152,242,187,253,199,245,178,224"
+          alt="Vaucluse"
+          href="./weather.php?dpt=84" />
+    <area shape="poly"
+          title="Bouches du Rhône"
+          coords="82,213,71,245,60,246,51,266,33,280,61,267,74,268,84,298,99,301,122,272,139,285,139,293,120,297,114,297,144,299,156,324,188,331,193,311,188,296,197,288,189,257,142,244,131,241,106,216"
+          alt="Bouches du Rhône"
+          href="./weather.php?dpt=13" />
+</map>
